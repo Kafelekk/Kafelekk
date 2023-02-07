@@ -1,7 +1,7 @@
-### Ayo whats up?
+# Hello there
 
-## I'm Kafelekk and I program useless stuff and make 
-simple mods in my free time
+## I'm Kafelekk and I program useless stuff and make <br> simple mods in my free time <br>
+
 
 ### Language and tools:<br>
 ![LUA](https://img.shields.io/badge/LUA-%23323330.svg?style=for-the-badge&logo=lua&logoColor=9cf)
@@ -15,5 +15,6 @@ simple mods in my free time
 ![CSS](https://img.shields.io/badge/CSS-E95420.svg?style=for-the-badge&logo=CSS3&logoColor=lightgrey)
 
 ### Contact:
+Email: kafelekk2000@gmail.com (you will probably get faster response on reddit) <br>
+![REDDIT](https://img.shields.io/reddit/user-karma/combined/Kafelekkz?style=for-the-badge)<br>
 
-![REDDIT](https://img.shields.io/reddit/user-karma/combined/Kafelekkz?style=for-the-badge)
