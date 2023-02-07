@@ -15,6 +15,6 @@
 ![CSS](https://img.shields.io/badge/CSS3-E95420.svg?style=for-the-badge&logo=CSS3&logoColor=lightgrey)
 
 ### <br> Contact:
-Email: kafelekk2000@gmail.com (you will probably get faster response on reddit) <br>
+Email: kafelekk2000@gmail.com (faster response on reddit) <br>
 ![REDDIT](https://img.shields.io/reddit/user-karma/combined/Kafelekkz?style=for-the-badge)<br>
 
