@@ -12,7 +12,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) <br>
 ![Python](https://img.shields.io/badge/python-%2313f.svg?style=for-the-badge&logo=python&logoColor=yellow)
 ![GNU BASH](https://img.shields.io/badge/GNU%20BASH-%233F3E44.svg?style=for-the-badge&logo=gnu%20bash&logoColor=lightgrey)
-![CSS](https://img.shields.io/badge/CSS-E95420.svg?style=for-the-badge&logo=CSS3&logoColor=lightgrey)
+![CSS](https://img.shields.io/badge/CSS3-E95420.svg?style=for-the-badge&logo=CSS3&logoColor=lightgrey)
 
 ### <br> Contact:
 Email: kafelekk2000@gmail.com (you will probably get faster response on reddit) <br>
