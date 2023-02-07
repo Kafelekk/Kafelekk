@@ -1,8 +1,8 @@
-###Ayo whats up?
+### Ayo whats up?
 
-##I'm Kafelekk and I program useless stuff and make simple mods in my free time
+## I'm Kafelekk and I program useless stuff and make simple mods in my free time
 
-###Language and tools:<br>
+### Language and tools:<br>
 ![LUA](https://img.shields.io/badge/LUA-%23323330.svg?style=for-the-badge&logo=lua&logoColor=9cf)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -13,6 +13,6 @@
 ![GNU BASH](https://img.shields.io/badge/GNU%20BASH-%233F3E44.svg?style=for-the-badge&logo=gnu%20bash&logoColor=lightgrey)
 ![CSS](https://img.shields.io/badge/CSS-E95420.svg?style=for-the-badge&logo=CSS3&logoColor=lightgrey)
 
-###Contact:
+### Contact:
 
 ![REDDIT](https://img.shields.io/reddit/user-karma/combined/Kafelekkz?style=for-the-badge)
