@@ -1,6 +1,6 @@
 # Hello there
 
-## <br><br> I'm Kafelekk and I program useless stuff and make <br> simple mods in my free time <br>
+## <br><br> I'm Kafelekk, I program useless stuff and make <br> simple mods in my free time <br>
 
 
 ###  <br> Language and tools:<br>
