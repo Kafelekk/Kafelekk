@@ -17,5 +17,5 @@
 ### <br> Contact:
 Email: kafelekk2000@gmail.com <br>
 Discord: Kafelekk#0936 <br>
-Reddit: &nbsp   ![REDDIT](https://img.shields.io/reddit/user-karma/combined/Kafelekkz?style=for-the-badge)<br>
+Reddit: &nbsp;   ![REDDIT](https://img.shields.io/reddit/user-karma/combined/Kafelekkz?style=for-the-badge)<br>
 
